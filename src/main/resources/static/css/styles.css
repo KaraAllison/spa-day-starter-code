@@ -24,3 +24,66 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+#red {
+background-color: red;
+width: 15px;
+height: 15px;
+display: inline-block;
+}
+
+#orange {
+background-color: orange;
+width: 15px;
+height: 15px;
+display: inline-block;
+}
+
+#yellow {
+background-color: yellow;
+width: 15px;
+height: 15px;
+display: inline-block;
+}
+
+#blue {
+background-color: blue;
+width: 15px;
+height: 15px;
+display: inline-block;
+}
+
+#green {
+background-color: green;
+width: 15px;
+height: 15px;
+display: inline-block;
+}
+
+#black {
+background-color: black;
+width: 15px;
+height: 15px;
+display: inline-block;
+}
+
+#purple {
+background-color: purple;
+width: 15px;
+height: 15px;
+display: inline-block;
+}
+
+#pink {
+background-color: pink;
+width: 15px;
+height: 15px;
+display: inline-block;
+}
+
+#teal {
+background-color: teal;
+width: 15px;
+height: 15px;
+display: inline-block;
+}
